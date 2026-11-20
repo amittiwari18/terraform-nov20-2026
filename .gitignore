@@ -1,3 +1,6 @@
 
 # SSH private keys
 ssh-keys/terraform-azure.pem
+
+# Ignore SSH keys
+ssh-keys/
